@@ -1,4 +1,4 @@
-# CodeAlpha - Calculator
+# Calculator
 
 A modern and responsive Calculator built using HTML, CSS, and JavaScript. This project features a clean design and smooth user interactions.
 
@@ -26,10 +26,6 @@ A modern and responsive Calculator built using HTML, CSS, and JavaScript. This p
 - Improve animations and UI  
 - Add dark/light mode  
 
-
-##  Acknowledgement
-
-This project is part of the CodeAlpha Frontend Development Internship.
 
 ## Contact
 
